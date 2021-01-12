@@ -1,0 +1,37 @@
+regionCode,regionName,UtlaCode,UtlaName,LtlaCode,LtlaName,areaType,areaCode,areaName,date,newCasesBySpecimenDateRollingSum
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000397,Bowes Park,29/11/2020,16
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000398,Northumberland Park,29/11/2020,12
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000400,Bounds Green,29/11/2020,18
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000401,Roundway,29/11/2020,13
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000402,Tottenham Bruce Castle Park,29/11/2020,17
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000403,Wood Green North,29/11/2020,12
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000404,Scotch Estate,29/11/2020,8
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000405,Alexandra Park,29/11/2020,4
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000406,Noel Park,29/11/2020,13
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000407,Bruce Grove North,29/11/2020,6
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000408,Tottenham North West,29/11/2020,15
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000409,Lordship Lane & Broadwater Farm,29/11/2020,7
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000410,Muswell Hill North,29/11/2020,
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000411,Tottenham Lea Valley,29/11/2020,18
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000412,Wood Green South,29/11/2020,9
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000413,Fortis Green & Coldfall,29/11/2020,12
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000414,Bruce Grove South,29/11/2020,6
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000415,Downhills Park,29/11/2020,7
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000416,Hornsey East,29/11/2020,12
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000417,Muswell Hill South,29/11/2020,4
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000418,Hornsey West,29/11/2020,18
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000419,Harringay Ladder North,29/11/2020,9
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000420,Tottenham Green West,29/11/2020,10
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000421,Tottenham Green East,29/11/2020,10
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000422,West Green & St Ann's,29/11/2020,13
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000423,Harringay East,29/11/2020,8
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000424,Hornsey Vale,29/11/2020,23
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000425,South Tottenham,29/11/2020,8
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000426,Highgate Wood,29/11/2020,4
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000427,Harringay Ladder South,29/11/2020,15
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000428,Harringay Warehouse District & Vartry,29/11/2020,6
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000429,Crouch End West,29/11/2020,13
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000430,Crouch End East,29/11/2020,14
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000431,Highgate East,29/11/2020,4
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02000432,Stroud Green,29/11/2020,9
+E12000007,London,E09000014,Haringey,E09000014,Haringey,msoa,E02006794,White Hart Lane,29/11/2020,10
